@@ -142,9 +142,9 @@ git clone https://github.com/0jasbansal/retail-sales-analysis.git
 
 ## 👤 Author
 
-**Ojas Bansal**  
+**Aditya Rathi**  
 B.Tech — Computer Science Engineering, MAIT Delhi  
-[LinkedIn](https://linkedin.com/in/0jasbansal) · [GitHub](https://github.com/0jasbansal)
+[LinkedIn](https://linkedin.com/in/aditya-rathi05) · [GitHub](https://github.com/AdityaRathi05)
 
 ---
 
